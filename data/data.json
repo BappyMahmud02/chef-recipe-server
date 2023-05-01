@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "chef_name": "Mark Johnson",
+        "recipe_names": [
+            "Barbecue Ribs",
+            "Macaroni and Cheese",
+            "Apple Pie"
+        ],
+        "chef_photo": "https://sa.kapamilya.com/absnews/abscbnnews/media/ancx/food-n-drink/2019/06/1peninsula.jpg",
+        "years_of_experience": 15,
+        "num_recipes": 100,
+        "likes": 2000,
+        "short_bio": "Mark Johnson is a seasoned American chef with a passion for traditional comfort foods. He has over 15 years of experience in the kitchen and has developed a reputation for his delicious barbecue and soul food dishes.",
+        "cooking_method": "Mark's cooking style is all about bold flavors, hearty portions, and classic American dishes. He loves to use fresh, local ingredients and traditional cooking methods to create dishes that are both comforting and delicious."
+    },
+    {
+        "id": 2,
+        "chef_name": "Sarah Smith",
+        "recipe_names": [
+            "Buttermilk Fried Chicken",
+            "Collard Greens",
+            "Peach Cobbler"
+        ],
+        "chef_photo": "https://remezcla.com/wp-content/uploads/2022/03/Pyet_DeSpain_Gordon_Ramsay_Food-1200x1800.jpg",
+        "years_of_experience": 10,
+        "num_recipes": 50,
+        "likes": 1500,
+        "short_bio": "Sarah Smith is a talented American chef with a passion for Southern cuisine. She has honed her skills over 10 years in professional kitchens and is known for her expertly fried chicken and traditional sides.",
+        "cooking_method": "Sarah's cooking is all about bold, spicy flavors and classic Southern ingredients like buttermilk, bacon, and hot sauce. She believes that food is a way to connect with people and that the best dishes are often the simplest."
+    },
+    {
+        "id": 3,
+        "chef_name": "Michael Thompson",
+        "recipe_names": [
+            "New York-style Pizza",
+            "Burgers",
+            "Cheesecake"
+        ],
+        "chef_photo": "https://www.deliciousitaly.com/media/k2/items/cache/da5a2f8be62b9e70b88e8e9acca66a7b_M.jpg",
+        "years_of_experience": 12,
+        "num_recipes": 75,
+        "likes": 1800,
+        "short_bio": "Michael Thompson is a talented American chef with a passion for classic American cuisine. He has over a decade of experience in the kitchen and is known for his delicious New York-style pizza and juicy burgers.",
+        "cooking_method": "Michael's cooking is all about bold flavors and classic techniques. He loves to use fresh, high-quality ingredients to create dishes that are both delicious and satisfying. He believes that food is a way to bring people together and that a good meal can make any day better."
+    },
+    {
+        "id": 4,
+        "chef_name": "Jessica Miller",
+        "recipe_names": [
+            "Southern Fried Chicken",
+            "Biscuits and Gravy",
+            "Sweet Potato Pie"
+        ],
+        "chef_photo": "https://robbreport.com/wp-content/uploads/2021/12/Evan_funke_pasta_MotherWolf.jpg?w=1000",
+        "years_of_experience": 8,
+        "num_recipes": 40,
+        "likes": 1200,
+        "short_bio": "Jessica Miller is a talented American chef with a passion for Southern cuisine. She has honed her skills over 8 years in professional kitchens and is known for her expertly fried chicken and classic Southern sides.",
+        "cooking_method": "Jessica's cooking is all about bold, spicy flavors and classic Southern ingredients like chicken, pork, and sweet potatoes. She believes that food is a way to connect with people and that the best dishes."
+    },
+    {
+        "id": 5,
+        "chef_name": "Jessica Miller",
+        "recipe_names": [
+            "Southern Fried Chicken",
+            "Biscuits and Gravy",
+            "Sweet Potato Pie"
+        ],
+        "chef_photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Chef-jerome-grant.jpg/1200px-Chef-jerome-grant.jpg",
+        "years_of_experience": 8,
+        "num_recipes": 40,
+        "likes": 1200,
+        "short_bio": "Jessica Miller is a talented American chef with a passion for Southern cuisine. She has honed her skills over 8 years in professional kitchens and is known for her expertly fried chicken and classic Southern sides.",
+        "cooking_method": "Jessica's cooking is all about bold, spicy flavors and classic Southern ingredients like chicken, pork, and sweet potatoes. She believes that food is a way to connect with people and that the best dishes."
+    },
+    {
+        "id": 6,
+        "chef_name": "Jessica Miller",
+        "recipe_names": [
+            "Southern Fried Chicken",
+            "Biscuits and Gravy",
+            "Sweet Potato Pie"
+        ],
+        "chef_photo": "https://www.dancingmarlinrestaurant.com/wp-content/uploads/2022/02/OurChef.jpg",
+        "years_of_experience": 8,
+        "num_recipes": 40,
+        "likes": 1200,
+        "short_bio": "Jessica Miller is a talented American chef with a passion for Southern cuisine. She has honed her skills over 8 years in professional kitchens and is known for her expertly fried chicken and classic Southern sides.",
+        "cooking_method": "Jessica's cooking is all about bold, spicy flavors and classic Southern ingredients like chicken, pork, and sweet potatoes. She believes that food is a way to connect with people and that the best dishes."
+    }
+]
