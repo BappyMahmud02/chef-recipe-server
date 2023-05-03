@@ -14,6 +14,13 @@ app.get('/chefs', (req, res) => {
   console.log(chef);
     res.send(chef);
 })
+app.get('/chefs/:id', (req, res) => {
+  const id = req.params.id;
+  console.log(id);
+  const chefs = chef.find((c) => c.id == id) ;
+  console.log(chefs);
+  res.send(chefs)
+})
 
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)

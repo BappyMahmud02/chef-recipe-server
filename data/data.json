@@ -14,9 +14,28 @@
         "short_bio": "Mark Johnson is a seasoned American chef with a passion for traditional comfort foods. He has over 15 years of experience in the kitchen and has developed a reputation for his delicious barbecue and soul food dishes.",
         "cooking_method": "Mark's cooking style is all about bold flavors, hearty portions, and classic American dishes. He loves to use fresh, local ingredients and traditional cooking methods to create dishes that are both comforting and delicious.",
         "ingredients": [
-            ["macaroni", "cheddar cheese", "butter", "flour", "milk"] 
+            [
+                "pork ribs",
+                "barbecue sauce",
+                "brown sugar",
+                "garlic",
+                "onion"
+            ],
+            [
+                "macaroni",
+                "cheddar cheese",
+                "butter",
+                "flour",
+                "milk"
+            ],
+            [
+                "apples",
+                "sugar",
+                "cinnamon",
+                "nutmeg",
+                "flour"
+            ]
         ]
-        
     },
     {
         "id": 2,
@@ -33,7 +52,27 @@
         "short_bio": "Sarah Smith is a talented American chef with a passion for Southern cuisine. She has honed her skills over 10 years in professional kitchens and is known for her expertly fried chicken and traditional sides.",
         "cooking_method": "Sarah's cooking is all about bold, spicy flavors and classic Southern ingredients like buttermilk, bacon, and hot sauce. She believes that food is a way to connect with people and that the best dishes are often the simplest.",
         "ingredients": [
-            ["chicken", "buttermilk", "flour", "paprika", "salt"] 
+            [
+                "chicken",
+                "buttermilk",
+                "flour",
+                "paprika",
+                "salt"
+            ],
+            [
+                "collard greens",
+                "bacon",
+                "onion",
+                "chicken broth",
+                "apple cider vinegar"
+            ],
+            [
+                "peaches",
+                "sugar",
+                "butter",
+                "cinnamon",
+                "nutmeg"
+            ]
         ]
     },
     {
@@ -51,7 +90,27 @@
         "short_bio": "Michael Thompson is a talented American chef with a passion for classic American cuisine. He has over a decade of experience in the kitchen and is known for his delicious New York-style pizza and juicy burgers.",
         "cooking_method": "Michael's cooking is all about bold flavors and classic techniques. He loves to use fresh, high-quality ingredients to create dishes that are both delicious and satisfying. He believes that food is a way to bring people together and that a good meal can make any day better.",
         "ingredients": [
-            ["peaches", "sugar", "butter", "cinnamon", "nutmeg"] 
+            [
+                "pizza dough",
+                "tomato sauce",
+                "mozzarella cheese",
+                "pepperoni",
+                "olive oil"
+            ],
+            [
+                "ground beef",
+                "onion",
+                "lettuce",
+                "tomato",
+                "cheddar cheese"
+            ],
+            [
+                "cream cheese",
+                "sugar",
+                "eggs",
+                "vanilla extract",
+                "graham cracker crumbs"
+            ]
         ]
     },
     {
@@ -69,7 +128,27 @@
         "short_bio": "Jessica Miller is a talented American chef with a passion for Southern cuisine. She has honed her skills over 8 years in professional kitchens and is known for her expertly fried chicken and classic Southern sides.",
         "cooking_method": "Jessica's cooking is all about bold, spicy flavors and classic Southern ingredients like chicken, pork, and sweet potatoes. She believes that food is a way to connect with people and that the best dishes.",
         "ingredients": [
-            ["peaches", "sugar", "butter", "cinnamon", "nutmeg"] 
+            [
+                "peaches",
+                "sugar",
+                "butter",
+                "cinnamon",
+                "nutmeg"
+            ],
+            [
+                "ground beef",
+                "onion",
+                "lettuce",
+                "tomato",
+                "cheddar cheese"
+            ],
+            [
+                "cream cheese",
+                "sugar",
+                "eggs",
+                "vanilla extract",
+                "graham cracker crumbs"
+            ]
         ]
     },
     {
@@ -87,7 +166,27 @@
         "short_bio": "Jessica Miller is a talented American chef with a passion for Southern cuisine. She has honed her skills over 8 years in professional kitchens and is known for her expertly fried chicken and classic Southern sides.",
         "cooking_method": "Jessica's cooking is all about bold, spicy flavors and classic Southern ingredients like chicken, pork, and sweet potatoes. She believes that food is a way to connect with people and that the best dishes.",
         "ingredients": [
-            ["ground beef", "onion", "lettuce", "tomato", "cheddar cheese"] 
+            [
+                "ground beef",
+                "onion",
+                "lettuce",
+                "tomato",
+                "cheddar cheese"
+            ],
+            [
+                "macaroni",
+                "cheddar cheese",
+                "butter",
+                "flour",
+                "milk"
+            ],
+            [
+                "apples",
+                "sugar",
+                "cinnamon",
+                "nutmeg",
+                "flour"
+            ]
         ]
     },
     {
@@ -105,7 +204,27 @@
         "short_bio": "Jessica Miller is a talented American chef with a passion for Southern cuisine. She has honed her skills over 8 years in professional kitchens and is known for her expertly fried chicken and classic Southern sides.",
         "cooking_method": "Jessica's cooking is all about bold, spicy flavors and classic Southern ingredients like chicken, pork, and sweet potatoes. She believes that food is a way to connect with people and that the best dishes.",
         "ingredients": [
-            ["pizza dough", "tomato sauce", "mozzarella cheese", "pepperoni", "olive oil"] 
+            [
+                "pizza dough",
+                "tomato sauce",
+                "mozzarella cheese",
+                "pepperoni",
+                "olive oil"
+            ],
+            [
+                "macaroni",
+                "cheddar cheese",
+                "butter",
+                "flour",
+                "milk"
+            ],
+            [
+                "apples",
+                "sugar",
+                "cinnamon",
+                "nutmeg",
+                "flour"
+            ]
         ]
     }
 ]
